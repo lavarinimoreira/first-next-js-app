@@ -20,4 +20,4 @@ This project was built following the [NextJS documentation](https://nextjs.org/d
 Please feel free to submit pull requests or issues to this repository.
 
 ## Author
-Gabriel Lavarini - Your GitHub Profile
+Gabriel Lavarini - <gabriel@lavarinimoreira.me>
